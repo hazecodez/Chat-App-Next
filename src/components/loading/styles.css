@@ -1,0 +1,12 @@
+@keyframes loading-line {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 100%;
+  }
+}
+
+.animate-loading-line {
+  animation: loading-line 2s linear infinite; /* Adjust duration as needed */
+}

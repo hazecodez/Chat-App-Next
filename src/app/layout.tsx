@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Chat App",
+  title: "Chit Chat",
   description: "A chat app built with Next.js and Firebase",
 };
 
